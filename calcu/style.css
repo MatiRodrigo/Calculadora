@@ -4,7 +4,7 @@
     box-sizing: border-box;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-weight: bolder;
-
+    overflow: hidden;
 }
 
 
@@ -67,6 +67,7 @@ body.container {
     display: block;
     align-content: center;
     align-items: center;
+    overflow: hidden;
 }
 
 .linea-btn {
@@ -84,6 +85,7 @@ button {
     cursor: pointer;
     background-color: rgba(75, 76, 90, 0.608);
     color:rgb(255, 255, 255);
+    overflow: hidden;
 }
 
 .btn-glow {
